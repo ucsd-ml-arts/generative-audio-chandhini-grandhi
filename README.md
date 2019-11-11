@@ -34,8 +34,10 @@ Sample output:
 
 Tweet = 'This is quite depressing. I am filled with sorrow'<br />
 Emotion classification output : sadness<br />
-Tacotron output: 
-Wavenet output: [tweet audio](https://github.com/ucsd-ml-arts/generative-audio-chandhini-grandhi/tree/master/Output)
+Tacotron output: [tweet audio](https://github.com/ucsd-ml-arts/generative-audio-chandhini-grandhi/tree/master/Output)<br />
+Wavenet output: [Generated Happy audio](https://github.com/ucsd-ml-arts/generative-audio-chandhini-grandhi/blob/master/Output/generated_happy.wav) <br />
+                [Generated Sad audio](https://github.com/ucsd-ml-arts/generative-audio-chandhini-grandhi/blob/master/Output/generated_sad.wav) 
+
 
 
 ## Technical Notes
